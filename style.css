@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: azure;
+    font-size: 30px;
+    font-family: inherit;
+}
+
+head {
+
+    text-align: center;
+    color: azure;
+    font-size: 100px;
+    font-family: inherit;
+}
+
+.img1 {
+
+    width: 250;
+    height: 250;
+
+}
+
+.img2 {
+
+    width: 250;
+    height: 250;
+}
+
+#wassup {
+
+    font-size: 30;
+    font-family: inherit;
+
+
+}
+
+.img3 {
+
+    width: 250;
+    height: 100;
+
+
+
+}
